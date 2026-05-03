@@ -1,0 +1,10 @@
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\bin\Debug\Prueba_P1_Grafica.exe.config
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\bin\Debug\Prueba_P1_Grafica.exe
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\bin\Debug\Prueba_P1_Grafica.pdb
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\obj\Debug\Prueba_P1_Grafica.csproj.AssemblyReference.cache
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\obj\Debug\Prueba_P1_Grafica.FrmPrincipal.resources
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\obj\Debug\Prueba_P1_Grafica.Properties.Resources.resources
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\obj\Debug\Prueba_P1_Grafica.csproj.GenerateResource.cache
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\obj\Debug\Prueba_P1_Grafica.csproj.CoreCompileInputs.cache
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\obj\Debug\Prueba_P1_Grafica.exe
+E:\GIT\Prueba_Grafica_P1\Prueba_P1_Grafica\Prueba_P1_Grafica\obj\Debug\Prueba_P1_Grafica.pdb
