@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\",
+  "WorkspaceRootPath": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|e:\\git\\prueba_grafica_p1\\prueba_p1_grafica\\prueba_p1_grafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|solutionrelative:prueba_p1_grafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|e:\\git\\prueba_grafica_p1\\prueba_p1_grafica\\prueba_p1_grafica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|solutionrelative:prueba_p1_grafica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|e:\\git\\prueba_grafica_p1\\prueba_p1_grafica\\prueba_p1_grafica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\prueba_p1_grafica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|solutionrelative:prueba_p1_grafica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|e:\\git\\prueba_grafica_p1\\prueba_p1_grafica\\prueba_p1_grafica\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\prueba_p1_grafica\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|solutionrelative:prueba_p1_grafica\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\prueba_p1_grafica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|solutionrelative:prueba_p1_grafica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|c:\\users\\josue\\documents\\github\\prueba_grafica_p1\\prueba_p1_grafica\\prueba_p1_grafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152C20A-4DAE-4A06-92A6-43A4D753AB65}|Prueba_P1_Grafica\\Prueba_P1_Grafica.csproj|solutionrelative:prueba_p1_grafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Figuras.cs",
-              "DocumentMoniker": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\Figuras.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\Figuras.cs",
               "RelativeDocumentMoniker": "Prueba_P1_Grafica\\Figuras.cs",
-              "ToolTip": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\Figuras.cs",
+              "ToolTip": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\Figuras.cs",
               "RelativeToolTip": "Prueba_P1_Grafica\\Figuras.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-02T23:15:27.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "Prueba_P1_Grafica\\FrmPrincipal.cs",
-              "ToolTip": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\FrmPrincipal.cs",
               "RelativeToolTip": "Prueba_P1_Grafica\\FrmPrincipal.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowDoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-02T23:14:31.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "Prueba_P1_Grafica\\FrmPrincipal.cs",
-              "ToolTip": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\FrmPrincipal.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\FrmPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "Prueba_P1_Grafica\\FrmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-02T22:48:34.462Z",
@@ -68,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\Program.cs",
               "RelativeDocumentMoniker": "Prueba_P1_Grafica\\Program.cs",
-              "ToolTip": "E:\\GIT\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\Program.cs",
+              "ToolTip": "C:\\Users\\Josue\\Documents\\GitHub\\Prueba_Grafica_P1\\Prueba_P1_Grafica\\Prueba_P1_Grafica\\Program.cs",
               "RelativeToolTip": "Prueba_P1_Grafica\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
